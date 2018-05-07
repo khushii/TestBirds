@@ -1,0 +1,251 @@
+.panel-wrapper{
+	transition: background-color .2s ease-out;
+	padding-left: 0px;
+	padding-right: 0px;
+}	
+
+.infoRole
+{
+	display:  inline;
+    float: none;
+	padding-left:10px;
+}
+
+.infoName{
+	padding-left:50px;
+}
+
+.btn-circle.btn-xl {
+    
+    border-radius: 35px;
+    font-size: 24px;
+    line-height: 1.33;
+}
+
+    
+.imageBox .img-back {
+        width: 40px;
+        padding-top: 0px;
+
+    }
+    
+.img-top {
+        width: 40px;
+        padding-top: 0px;
+        height: 40px;
+
+    }   
+
+ .noResultFound
+ {
+ 	text-align: center;
+ 	
+ }
+ 
+ .noResultText
+ {
+ display:inline-block;
+ color:darkgreen;
+ }
+ 
+ .Select-option.is-focused  {
+    background-color: #dff0d8 !important;
+}
+
+.optionImage img{
+	width: 40px;
+}
+
+.Select-control{
+	height:60px;
+	width: 249px;
+	border-top-width: 1px;
+    border: none !important;
+	background-color: transparent !important;
+	box-shadow: none !important;
+	
+	
+}
+
+.Select-menu-outer * {
+  max-height: 400px;
+  width: 100%;
+ 
+}
+
+
+.placeHolder
+{
+	float:left;
+}
+
+.dropdownbox
+{
+	 padding-left: 15px;
+	 left: 0px;
+    padding-right: 0px;
+	
+}
+
+.Select-placeholder{
+	padding-bottom: 5px;
+	padding-top: 10px;
+    padding-left: 10px;
+	
+	
+}
+
+.addToTeam
+{
+	color:#3c763d;
+	padding-top: 5px;
+    display: inline;
+    float: none;
+}
+
+.addImgtoTeam
+{
+	 position: relative;
+     float: left;
+     width: 40px;
+     height: 40px;
+}
+
+.placeholderImg:hover
+{
+	background-color: #dff0d8 !important;
+}
+
+.addingTeamMember{
+	   
+ 	min-height:60px;
+	padding-right: 0px;
+    padding-bottom: 5px;
+	padding-top: 10px;
+    padding-left: 20px;
+	   
+}
+
+.memberName{
+	display:block;
+}
+
+
+.imageBox {
+            position: relative;
+            float: left;
+        }
+        .imageBox .hoverImg {
+            position: absolute;
+            left: 0;
+            top: 0;
+            display: none;
+        }
+        .imageBox:hover .hoverImg {
+            display: block;
+        }
+.header
+{
+	 left: 30px;
+	 padding-right: 0px;
+	 padding-left: 0px;
+}
+
+.Select-control:hover
+{
+	background-color: #dff0d8 !important;
+}
+
+.panel-wrapper .addingTeamMember:first-child
+{
+	
+}
+
+.mainClass{
+	
+    white-space: nowrap;
+    /* overflow-y: scroll; */
+    /* min-height: 170px; */
+   left: 0px;
+    top: 0px;
+	 width: 500px !important;
+    border: 1px solid #ccc;
+    position:relative;
+}
+
+
+.btn-lg{
+	background-color: #dff0d8 !important;
+}
+
+.header h4
+{
+    font-weight: bold;
+    color: gray;
+}
+
+.placeholderImg
+{
+	height: 40px;
+	width:40px;
+}
+
+.placeHolderText{
+	display:inline-block;
+}
+
+.someDiv
+{
+	height:40px;width:40px;float:left;
+	 margin-right: 10px;
+	
+}
+
+.textDiv{
+	padding: 0px 0px;
+   	line-height: 20px;
+   	overflow: hidden;
+   	margin: 0;
+   	min-height:40px;
+}
+
+.rowMainHeader{
+	 margin-left: 0px;
+    margin-right: 0px;
+}
+
+.colMainHeader{
+	
+    left: 0px;
+    padding-right: 0px;
+	
+}
+
+.rowDropdown
+{
+
+    margin-left: 0px;
+    margin-right: 0px;
+	
+}
+
+.addingTeamMember:hover {
+    background : #dff0d8;
+}
+
+.teamPage{
+	padding-left: 0px;
+	padding-right: 0px;
+	min-height: 29px;
+}
+
+.teamImg{
+	height: 30px;
+}
+
+.teamPara{
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+
+

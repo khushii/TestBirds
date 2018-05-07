@@ -1,0 +1,6 @@
+{
+  "name": "DropdownBox",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./DropdownBox.js"
+}
